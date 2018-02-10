@@ -1,0 +1,6 @@
+
+Compilar com: gcc -03 -msse3 optimal.c -o optm
+
+Colocar um test case na pasta do executavel
+
+Executar: ./optm < test_case.txt
